@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AIiceR
+- 👋 Hi, I’m @AIiceR. I'm British born but Berlin based. 
 - 👀 I’m interested in CSS and SCSS, simple design and accessibility in web design
 - 🌱 I'm currently learning HTML, CSS, and Javascript
 - 💞️ I am looking to collaborate with anyone who also wants to address the lack of a pretzel emoji on github
